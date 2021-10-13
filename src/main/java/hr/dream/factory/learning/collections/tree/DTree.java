@@ -1,11 +1,8 @@
 package hr.dream.factory.learning.collections.tree;
 
-import apple.laf.JRSUIUtils;
 import hr.dream.factory.learning.collections.BaseCollection;
 
-import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.Queue;
 
 public class DTree implements BaseCollection<Integer> {
 

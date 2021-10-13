@@ -1,6 +1,7 @@
 package hr.dream.factory.learning.collections.Array;
 
 import hr.dream.factory.learning.collections.BaseCollection;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.function.ThrowingRunnable;
 
@@ -34,6 +35,7 @@ public class StackTest {
     }
 
     @Test
+    @Ignore("only for learing")
     public void remove() {
         Stack s = new Stack(10);
         s.push("kurcina");

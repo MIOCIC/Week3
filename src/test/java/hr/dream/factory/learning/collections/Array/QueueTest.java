@@ -1,5 +1,6 @@
 package hr.dream.factory.learning.collections.Array;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -24,6 +25,7 @@ public class QueueTest {
     }
 
     @Test
+    @Ignore("only for learing")
     public void remove() {
         Queue s = new Queue(10);
         s.add("kurcina");

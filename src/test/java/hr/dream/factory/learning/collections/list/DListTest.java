@@ -9,13 +9,14 @@ import static org.junit.Assert.*;
 public class DListTest {
 
     @Test
-    @Ignore
+    @Ignore("only for learing")
     public void add() {
         DList lista = new DList();
         lista.add("kita");
     }
 
     @Test
+
     public void remove() {
         String first = "testing";
         //DList listtest = new DList(null);

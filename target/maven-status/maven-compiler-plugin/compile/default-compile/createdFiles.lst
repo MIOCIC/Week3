@@ -1,0 +1,12 @@
+hr/dream/factory/learning/collections/tree/DTree.class
+hr/dream/factory/learning/collections/Array/Executable.class
+hr/dream/factory/learning/collections/list/DList.class
+hr/dream/factory/learning/equals/Person.class
+hr/dream/factory/learning/equals/PersonStaticTesting.class
+hr/dream/factory/learning/collections/list/Node.class
+hr/dream/factory/learning/collections/tree/TreeNode.class
+hr/dream/factory/learning/collections/Array/Stack.class
+hr/dream/factory/learning/collections/BaseCollection.class
+hr/dream/factory/learning/collections/Array/FullStackException.class
+hr/dream/factory/learning/collections/Array/Queue.class
+hr/dream/factory/learning/collections/WrongElementException.class
